@@ -1,10 +1,10 @@
 # webeet.io Layered Project
 
-### Overview
+### 📝 Overview
 
 A showcase of data projects from my time at webeet.io on the **Layered** project. This repository includes raw public Berlin data along with Python scripts for cleaning, clustering, and preparing the data for database integration.
 
-### My Contributions
+### ✨ My Contributions
 
 This repository contains the following main component:
 
@@ -13,6 +13,6 @@ This repository contains the following main component:
 - More components coming soon...
 
 
-### Technologies Used
+### ⚙️ Technologies Used
 
 - Python 3.x: Pandas, psycopg2, SQLAlchemy, etc.
