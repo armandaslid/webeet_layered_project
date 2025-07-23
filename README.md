@@ -8,11 +8,11 @@ A showcase of data projects from my time at webeet.io on the **Layered** project
 
 This repository contains the following main component:
 
-- [regional_statistics/](regional_statistics) — Contains raw PDF files, source data extracted from these PDFs, a README with detailed explanations, and Python scripts for cleaning the data and populating the database.
+- [regional_statistics/](regional_statistics) — Contains raw PDF files, source data extracted from these PDFs, a README with detailed explanations, and Python script for cleaning the data and populating the database.
 
-- More components coming soon...
+- [short_time_listings/](short_time_listings) - Contains raw CSV and GEOJSON files, README with detailed explanations, and Python script for cleaning the data and populating the database.
 
 
 ### ⚙️ Technologies Used
 
-- Python 3.x: Pandas, psycopg2, SQLAlchemy, etc.
+- Python 3.x: Pandas, psycopg2, SQLAlchemy, GEOPandas, RE.
