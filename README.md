@@ -2,7 +2,7 @@
 
 ### 📝 Overview
 
-A showcase of data projects from my time at webeet.io on the **Layered** project. This repository includes raw public Berlin data along with Python scripts for cleaning, clustering, and preparing the data for database integration.
+A showcase of data projects from my time at webeet.io on the **Layered** project. This repository includes raw public Berlin data along with Python scripts for cleaning and preparing the data for database integration.
 
 ### ✨ My Contributions
 
